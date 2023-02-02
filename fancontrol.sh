@@ -23,7 +23,7 @@
 
 
 #the IP address of iDrac
-IPMIHOST=(192.168.13.10 192.168.13.11 192.168.13.12)
+IPMIHOST=("192.168.13.10" "192.168.13.11" "192.168.13.12")
 
 #iDrac user
 IPMIUSER=root
